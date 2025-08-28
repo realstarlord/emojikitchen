@@ -277,3 +277,8 @@ export default function EmojiKitchen() {
             </CardContent>
           </Card>
         </div>
+        
+</div>
+</div>
+  )}
+
