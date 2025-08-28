@@ -277,6 +277,3 @@ export default function EmojiKitchen() {
             </CardContent>
           </Card>
         </div>
-
-        {/* Footer tips */}
-        <div className="text-center text-xs text
